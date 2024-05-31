@@ -1,0 +1,17 @@
+{
+ "Device" : "GW2AR-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.9.01_x64/IDE/bin/Documents/UART_TX/Documents/TT_UART/src/TT_UART.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Gowin/Gowin_V1.9.9.01_x64/IDE/bin/Documents/UART_TX/Documents/TT_UART/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

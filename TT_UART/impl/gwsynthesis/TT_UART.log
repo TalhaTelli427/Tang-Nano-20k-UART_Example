@@ -1,0 +1,33 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v'
+Compiling module 'uart'("C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v":1)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 6("C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v":8)
+Extracting RAM for identifier 'Tx_Data_Buffer'("C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v":41)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v":85)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v":91)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v":100)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v":111)
+WARN  (EX3791) : Expression size 4 truncated to fit in target size 3("C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v":164)
+WARN  (EX3791) : Expression size 4 truncated to fit in target size 3("C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v":181)
+NOTE  (EX0101) : Current top module is "uart"
+[5%] Running netlist conversion ...
+WARN  (CV0016) : Input obsr is unused("C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.v":4)
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\impl\gwsynthesis\TT_UART.vg" completed
+[100%] Generate report file "C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\impl\gwsynthesis\TT_UART_syn.rpt.html" completed
+GowinSynthesis finish

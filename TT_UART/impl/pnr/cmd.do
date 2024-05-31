@@ -1,0 +1,13 @@
+-d C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\impl\gwsynthesis\TT_UART.vg
+-p GW2AR-18C-QFN88-8
+-pn GW2AR-LV18QN88C8/I7
+-cst C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\src\TT_UART.cst
+-cfg C:\Gowin\Gowin_V1.9.9.01_x64\IDE\bin\Documents\UART_TX\Documents\TT_UART\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000
